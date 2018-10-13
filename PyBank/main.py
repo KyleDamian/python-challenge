@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to csvfile
-csvfile = os.path.join("Resources", "budget_data.csv")
+csvfile = os.path.join("budget_data.csv")
 
 # print heading
 print("FINANCIAL ANALYSIS")

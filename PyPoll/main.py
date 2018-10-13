@@ -2,7 +2,7 @@ import os
 import csv
 
 # Path to csvfile
-csvfile = os.path.join("Resources", "election_data.csv")
+csvfile = os.path.join("election_data.csv")
 
 # print heading
 print("Election Results")
